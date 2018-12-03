@@ -1,0 +1,4 @@
+project,street,areaSqm,noOfBedRoom,tenure,rent,price,district,calc_yield
+TURQUOISE,COVE DRIVE,190-200,3.0,99 yrs lease commencing from 2007,6200.0,3100000,1,2.4
+TURQUOISE,COVE DRIVE,220-230,4.0,99 yrs lease commencing from 2007,8183.333333333333,3648148,18,2.691776759056924
+TURQUOISE,COVE DRIVE,250-260,4.0,99 yrs lease commencing from 2007,8800.0,3800000,1,2.778947368421053

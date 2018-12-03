@@ -1,0 +1,22 @@
+,project,street,contractDate_x,propertyType_x,areaSqm,areaSqft,rent,district,noOfBedRoom,contractDate_y,area,price,propertyType_y,tenure,floorRange,typeOfSale,lowSqmAdj,highSqmAdj,isSameSize
+11,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8700,4,4.0,318,224.0,3600000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+12,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8700,4,4.0,118,226.0,3590000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+16,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8700,4,4.0,118,223.0,3580000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+17,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8700,4,4.0,1117,224.0,3700000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+19,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8700,4,4.0,516,226.0,3700000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+21,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8700,4,4.0,1115,226.0,3718888,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+26,TURQUOISE,COVE DRIVE,118,Non-landed Properties,190-200,2100-2200,6200,4,3.0,718,194.0,3100000,Condominium,99 yrs lease commencing from 2007,01-05,3,190.0,200.0,True
+33,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8300,4,4.0,318,224.0,3600000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+34,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8300,4,4.0,118,226.0,3590000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+38,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8300,4,4.0,118,223.0,3580000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+39,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8300,4,4.0,1117,224.0,3700000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+41,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8300,4,4.0,516,226.0,3700000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+43,TURQUOISE,COVE DRIVE,118,Non-landed Properties,220-230,2400-2500,8300,4,4.0,1115,226.0,3718888,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+57,TURQUOISE,COVE DRIVE,218,Non-landed Properties,250-260,2700-2800,8800,4,4.0,616,258.0,3800000,Condominium,99 yrs lease commencing from 2007,01-05,3,250.0,260.0,True
+66,TURQUOISE,COVE DRIVE,318,Non-landed Properties,220-230,2400-2500,7550,4,4.0,318,224.0,3600000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+67,TURQUOISE,COVE DRIVE,318,Non-landed Properties,220-230,2400-2500,7550,4,4.0,118,226.0,3590000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+71,TURQUOISE,COVE DRIVE,318,Non-landed Properties,220-230,2400-2500,7550,4,4.0,118,223.0,3580000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+72,TURQUOISE,COVE DRIVE,318,Non-landed Properties,220-230,2400-2500,7550,4,4.0,1117,224.0,3700000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+74,TURQUOISE,COVE DRIVE,318,Non-landed Properties,220-230,2400-2500,7550,4,4.0,516,226.0,3700000,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+76,TURQUOISE,COVE DRIVE,318,Non-landed Properties,220-230,2400-2500,7550,4,4.0,1115,226.0,3718888,Condominium,99 yrs lease commencing from 2007,01-05,3,220.0,230.0,True
+77,FABER HILLS,FABER DRIVE,418,Non-landed Properties,150-160,1600-1700,2600,5,,1017,155.0,1399988,Apartment,Freehold,01-05,3,150.0,160.0,True
